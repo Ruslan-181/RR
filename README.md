@@ -225,7 +225,7 @@ int findMostFrequent(const int numbers[], int size) {
 
 
 
-### Тестування Завдання № 1 (`task1.c`)
+### Тестування Завдання № 2 (`task1.c`)
 
 **Результати запуску `task2.c`:**
 
