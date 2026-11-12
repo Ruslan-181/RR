@@ -56,9 +56,6 @@ double calculateSeriesSum(int limit);
         printf("Введіть ціле число N (N >= 1): ");
         readStatus = scanf("%d", &limitN);
 
-        if (readStatus == EOF) {
-            return 1;
-        }
         if (readStatus != 1) {
             printf("Помилка: некоректне введення. Будь ласка, введіть ціле число.\n");
             scanf("%*[^\n]");
